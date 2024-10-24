@@ -2,3 +2,9 @@ body{
     background-color: black;
     color: mintcream;
 }
+section{
+    background-color: lemonchiffon;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    color: gold;
+}
