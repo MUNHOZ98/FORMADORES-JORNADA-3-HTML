@@ -4,9 +4,17 @@ body{
 }
 section{
     background-color: palevioletred;
-    padding-top: 80px;
-    padding-bottom: 80px;
+    padding-top: 50px;
+    padding-bottom: 50px;
     display: flex;
     justify-content: center;
     color: gold;
+}
+.chamada-texto{
+    margin-left: 5%;
+}
+header{
+    font-size: larger;
+    text-align: center;
+    margin: 30px;
 }
