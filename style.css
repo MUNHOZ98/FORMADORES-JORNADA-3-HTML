@@ -30,17 +30,29 @@ body{
 .chamada-texto{
     margin-left: 10%;
     margin-right: 10%;
+    text-align: center;
 }
 header{
     font-size: larger;
     text-align: center;
     margin: 30px;
 }
-img{
-    height: 200px;
+h2{
+    font-size: larger;
+    text-align: center;
+    margin: 30px;
 }
 .categoria-videos{
     display: flex;
     overflow-x: auto;
     gap: 10px;
+}
+.categoria-videos img{
+    height: 200px;
+    opacity: 0.5;
+}
+
+.categoria-videos img:hover {
+    border: 2px solid white;
+    opacity: 1.0;
 }
