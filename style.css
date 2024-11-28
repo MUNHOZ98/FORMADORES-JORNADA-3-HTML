@@ -12,16 +12,16 @@ body{
 }*/
 .sec1{
     background-color: palevioletred;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 100px;
+    padding-bottom: 100px;
     display: flex;
     justify-content: center;
     color: gold;
 }
 .sec2{
     background-color: palevioletred;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 80px;
+    padding-bottom: 80px;
     display: flex;
     justify-content: center;
     color: gold;
