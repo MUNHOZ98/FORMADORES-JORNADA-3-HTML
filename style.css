@@ -2,7 +2,15 @@ body{
     background-color: black;
     color: mintcream;
 }
-section{
+/*section{
+    background-color: palevioletred;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    color: gold;
+}*/
+.sec1{
     background-color: palevioletred;
     padding-top: 50px;
     padding-bottom: 50px;
@@ -10,6 +18,15 @@ section{
     justify-content: center;
     color: gold;
 }
+.sec2{
+    background-color: palevioletred;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    color: gold;
+}
+
 .chamada-texto{
     margin-left: 5%;
     margin-right: 5%;
