@@ -30,7 +30,7 @@ body{
 .chamada-texto{
     margin-left: 10%;
     margin-right: 10%;
-    text-align: center;
+    text-align: justify;
 }
 header{
     font-size: larger;
